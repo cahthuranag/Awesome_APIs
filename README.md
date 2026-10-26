@@ -191,6 +191,7 @@ English | [中文](README-zh.md)
 
 ### Forex & Currencies
 + [1Forge.com](https://1forge.com/) - Real-time forex and crypto quotes via JSON and WebSocket.
++ [AllRatesToday](https://allratestoday.com/central-bank-rates-api/) - Official exchange rates published by 121 central banks and tax authorities, keyless latest table in JSON.
 + [CurrencyScoop.com](https://currencyscoop.com/) - Free Real-time and historical currency rates JSON API.
 
 ### Games
